@@ -4,7 +4,7 @@
 
 ## Welcome to ApexForgeHub
 
-A student team from Sukkur IBA University learning and building software projects together.
+A student team from our section at Sukkur IBA University, learning and building software projects together.
 
 **Our goal:** learn step by step, build real projects, and grow as a team until our last year.
 
@@ -13,4 +13,6 @@ A student team from Sukkur IBA University learning and building software project
 - Use Git and GitHub for teamwork
 - Build small projects first, then bigger ones
 
-**Want to join?** Message Mujahid Khan Marwat privately.
+**Membership:** this team is only for the students of our class.
+
+Founded by Mujahid Khan Marwat.
